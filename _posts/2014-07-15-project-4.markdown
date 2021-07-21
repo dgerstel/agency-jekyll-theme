@@ -1,15 +1,16 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Large Hadron Collider at CERN
+subtitle: PhD Project
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2021-07-5
+img: lhc.jpg
+thumbnail: lhc.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: November 2020
+client: CERN-LHCb, CPPM, Aix-Marseille University
+category: Data Science for Physics
+description: I worked on a data science project for the LHCb Collaboration (1 of 4 biggets experiments at CERN) and was awarded a PhD in Particle Physics for the thesis titled "Test of Lepton Flavour Universality using the B->D* tau nu decays at LHCb".
+ 
 
 ---

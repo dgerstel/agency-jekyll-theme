@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Survivability Analysis
+subtitle: 
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2021-03-15
+img: stat_analysis.png
+thumbnail: stat_analysis.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: March 2021
+client: Personal Project
+category: Exploratory Data Analysis
+description: Statistical analysis of survivability of patients after a heart failure.
 
 ---
